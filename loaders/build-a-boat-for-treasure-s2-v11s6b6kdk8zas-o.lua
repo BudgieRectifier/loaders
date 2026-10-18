@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/build-a-boat-for-treasure-s2-v11s6b6kdk8zas.lua"))()
