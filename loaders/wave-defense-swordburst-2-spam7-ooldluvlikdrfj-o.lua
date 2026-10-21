@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/wave-defense-swordburst-2-spam7-ooldluvlikdrfj.lua"))()
