@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/upd-paint-to-get-rich-spam7-b9wdy3kahig9w9.lua"))()
