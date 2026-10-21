@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/og-all-star-tower-defense-spam4-gjftorieiig6zx.lua"))()
