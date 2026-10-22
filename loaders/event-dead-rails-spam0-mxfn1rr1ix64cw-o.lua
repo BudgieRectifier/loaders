@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/event-dead-rails-spam0-mxfn1rr1ix64cw.lua"))()
