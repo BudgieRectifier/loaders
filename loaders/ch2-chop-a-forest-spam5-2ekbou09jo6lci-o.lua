@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/ch2-chop-a-forest-spam5-2ekbou09jo6lci.lua"))()
