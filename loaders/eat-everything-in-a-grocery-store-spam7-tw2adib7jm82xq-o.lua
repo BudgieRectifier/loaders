@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/eat-everything-in-a-grocery-store-spam7-tw2adib7jm82xq.lua"))()
