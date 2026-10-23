@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/karinderya-spam2-3z7aarfokx7i5d.lua"))()
