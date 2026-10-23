@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/sky-assassin-jujutsu-shenanigans-spam5-og7omgmtku3sp8.lua"))()
