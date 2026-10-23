@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/save-the-krusty-krab-spam2-xgmbs3oll1eswu.lua"))()
