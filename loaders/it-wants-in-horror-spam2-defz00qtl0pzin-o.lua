@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/it-wants-in-horror-spam2-defz00qtl0pzin.lua"))()
