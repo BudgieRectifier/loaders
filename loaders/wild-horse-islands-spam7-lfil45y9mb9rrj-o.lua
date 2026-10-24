@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/wild-horse-islands-spam7-lfil45y9mb9rrj.lua"))()
