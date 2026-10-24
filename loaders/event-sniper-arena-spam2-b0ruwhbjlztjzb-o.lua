@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/event-sniper-arena-spam2-b0ruwhbjlztjzb.lua"))()
