@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/slayers-2-spam4-j2kjqjx4m4dx3k.lua"))()
