@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/prehistoric-farm-new-world-spam2-01509zcblpicut.lua"))()
