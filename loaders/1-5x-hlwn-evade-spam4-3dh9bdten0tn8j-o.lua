@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/1-5x-hlwn-evade-spam4-3dh9bdten0tn8j.lua"))()
