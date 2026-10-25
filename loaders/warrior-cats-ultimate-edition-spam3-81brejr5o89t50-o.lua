@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/warrior-cats-ultimate-edition-spam3-81brejr5o89t50.lua"))()
