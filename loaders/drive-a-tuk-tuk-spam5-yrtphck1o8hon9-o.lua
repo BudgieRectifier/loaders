@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/drive-a-tuk-tuk-spam5-yrtphck1o8hon9.lua"))()
