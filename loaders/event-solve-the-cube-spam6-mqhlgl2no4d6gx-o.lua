@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/event-solve-the-cube-spam6-mqhlgl2no4d6gx.lua"))()
