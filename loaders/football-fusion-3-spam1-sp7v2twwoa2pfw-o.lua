@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/football-fusion-3-spam1-sp7v2twwoa2pfw.lua"))()
