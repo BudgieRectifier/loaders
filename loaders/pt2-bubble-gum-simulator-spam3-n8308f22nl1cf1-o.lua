@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/pt2-bubble-gum-simulator-spam3-n8308f22nl1cf1.lua"))()
